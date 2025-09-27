@@ -4,9 +4,9 @@ Projektni zadaci iz kolegija **Inverzni problemi i strojni vid** na PMF - MO u Z
 
 ### 2. projekt: Bayesovski inverzni problemi (uklanjanje šuma sa slike - *image denoising*)
 
-TO DO:
-- uzorkovanje iz posteriorne distribucije (***posterior sampling***)
-- bolje strukturiran izvještaj i usporedba rezultata
+- TO DO:
+  - uzorkovanje iz posteriorne distribucije (***posterior sampling***)
+  - bolje strukturiran izvještaj i usporedba rezultata
 
 
 
